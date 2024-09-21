@@ -18,9 +18,6 @@ I love problem-solving, innovation-driven architecture, and building impactful s
 - ⚡ **Machine Learning and AI**: Currently diving into **how AI works** and exploring **Tensorflow**.
 - 📱 **Android Development**: Exploring more advanced Android development techniques.
 
-### 📈 GitHub Stats
-![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelUche&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelUche&layout=compact&theme=radical)
 
 ### 🚀 Projects
 Here are some of my top projects:
@@ -28,8 +25,6 @@ Here are some of my top projects:
 - 🔗 [**Timbu API Flutter App**](https://github.com/MichaelUche/Timbu-API-Flutter) – An app displaying products using the **Timbu API**.
 - 🔗 [**Class Check**](https://github.com/MichaelUche/Class-Check) – A modern school attendance app built with **Stacked** and **MongoDB**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=michaeluche01 &theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
