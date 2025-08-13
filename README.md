@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a passionate **Mobile Developer** with over **3 years of experience** in creating cutting-edge mobile apps using **Flutter**. 🚀  
+I’m a passionate **Software Developer** with over **3 years of experience** in creating cutting-edge mobile apps using **Flutter**. 🚀  
 I love problem-solving, innovation-driven architecture, and building impactful solutions.
 <br>
 
