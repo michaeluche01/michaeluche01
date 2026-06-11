@@ -1,4 +1,4 @@
-# Chiedozie Michael Uchechukwu — Mobile-First Full-Stack Engineer
+# Michael Uchechukwu Chiedozie — Mobile-First Full-Stack Engineer
 
 ### 💫 About Me:
 - I build full-product mobile systems — I design the database, build the API, integrate AI, and ship the Flutter app.
